@@ -73,7 +73,6 @@ while True:
         "estado": estado
     }
 
-# Resultados finales
 print("\nResultados Finales ")
 suma_puntajes = 0
 ganadores = 0
